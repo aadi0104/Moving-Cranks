@@ -1,0 +1,538 @@
+[
+    {
+        "name": "Maruti Brezza",
+        "brand": "Maruti Suzuki",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Maruti/Brezza/10389/1688127505078/front-left-side-47.jpg",
+        "category": "SUV",
+        "price": "8.29 - 14.14 Lakh*",
+        "description": "The Maruti Brezza has 1 Petrol Engine and 1 CNG Engine on offer. The Petrol engine is 1462 cc while the CNG engine is 1462 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Brezza has a mileage of 17.38 kmpl to 25.51 km/kg . The Brezza is a 5 seater 4 cylinder car and has length of 3995, width of 1790 and a wheelbase of 2500"
+    },
+    {
+        "name": "Maruti Swift",
+        "brand": "Maruti Suzuki",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/10406/1697698080681/front-left-side-47.jpg?tr=w-664",
+        "category": "Hatchback",
+        "price": "5.99 - 9.03 Lakh*",
+        "description": "The Maruti Swift has 1 Petrol Engine and 1 CNG Engine on offer. The Petrol engine is 1197 cc while the CNG engine is 1197 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Swift has a mileage of 22.38 kmpl to 30.9 km/kg . The Swift is a 5 seater 4 cylinder car and has length of 3845 mm, width of 1735 mm and a wheelbase of 2450 mm."
+    },
+    {
+        "name": "Maruti Baleno",
+        "brand": "Maruti Suzuki",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/10497/1697697558001/front-left-side-47.jpg?tr=w-664",
+        "category": "Hatchback",
+        "price": "6.66 - 9.88 Lakh*",
+        "description": "The Maruti Baleno has 1 Petrol Engine and 1 CNG Engine on offer. The Petrol engine is 1197 cc while the CNG engine is 1197 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Baleno has a mileage of 22.35 kmpl to 30.61 km/kg . The Baleno is a 5 seater 4 cylinder car and has length of 3990 mm, width of 1745 mm and a wheelbase of 2520 mm."
+    },
+    {
+        "name": "Maruti Alto",
+        "brand": "Maruti Suzuki",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Alto-800/10327/1687348176706/front-left-side-47.jpg?tr=w-664",
+        "category": "Hatchback",
+        "price": "3.54 - 5.13 Lakh*",
+        "description": "The Maruti Alto has 1 Petrol Engine and 1 CNG Engine on offer. The Petrol engine is 796 cc while the CNG engine is 796 cc . It is available with Manual transmission.Depending upon the variant and fuel type the Alto has a mileage of 22.05 kmpl to 31.59 km/kg . The Alto is a 4 seater 3 cylinder car and has length of 3445 mm, width of 1515 mm and a wheelbase of 2435."
+    },
+    {
+        "name": "Maruti Wagon R",
+        "brand": "Maruti Suzuki",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Wagon-R/10365/1687580655855/front-left-side-47.jpg?tr=w-664",
+        "category": "Hatchback",
+        "price": "5.54 - 7.38 Lakh*",
+        "description": "The Maruti Wagon R has 2 Petrol Engine and 1 CNG Engine on offer. The Petrol engine is 998 cc and 1197 cc while the CNG engine is 998 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Wagon R has a mileage of 23.56 kmpl to 34.05 km/kg . The Wagon R is a 5 seater 4 cylinder car and has length of 3655 mm, width of 1620 mm and a wheelbase of 2435 mm."
+    },
+    {
+        "name": "Maruti Ciaz",
+        "brand": "Maruti Suzuki",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Ciaz/10346/1687437427620/front-left-side-47.jpg?tr=w-664",
+        "category": "Sedan",
+        "price": "9.40 - 12.29 Lakh*",
+        "description": "The Maruti Ciaz has 1 Petrol Engine on offer. The Petrol engine is 1462 cc . It is available with Automatic & Manual transmission.Depending upon the variant and fuel type the Ciaz has a mileage of 20.04 to 20.65 kmpl . The Ciaz is a 5 seater 4 cylinder car and has length of 4490 mm, width of 1730 mm and a wheelbase of 2500."
+    },
+    {
+        "name": "Maruti XL6",
+        "brand": "Maruti Suzuki",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/XL6/10384/1688385191052/front-left-side-47.jpg?tr=w-664",
+        "category": "MUV",
+        "price": "11.61 - 14.77 Lakh*",
+        "description": "The Maruti XL6 has 1 Petrol Engine and 1 CNG Engine on offer. The Petrol engine is 1462 cc while the CNG engine is 1462 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the XL6 has a mileage of 20.27 kmpl to 26.32 km/kg . The XL6 is a 6 seater 4 cylinder car and has length of 4445 mm, width of 1775 mm and a wheelbase of 2740."
+    },
+    {
+        "name": "Maruti Jimny",
+        "brand": "Maruti Suzuki",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Jimny/6182/1686117643111/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "12.74 - 14.95 Lakh*",
+        "description": "The Maruti Jimny has 1 Petrol Engine on offer. The Petrol engine is 1462 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Jimny has a mileage of 16.39 to 16.94 kmpl & Ground clearance of Jimny is 210 mm. The Jimny is a 4 seater 4 cylinder car and has length of 3985 mm, width of 1645 mm and a wheelbase of 2590 mm."
+    },
+    {
+        "name": "Mahindra Thar",
+        "brand": "Mahindra",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/Thar/10743/1690192572470/front-left-side-47.jpg",
+        "category": "SUV",
+        "price": "10.54 - 16.68 Lakh*",
+        "description": "The Mahindra Thar has 2 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 2184 cc and 1497 cc while the Petrol engine is 1997 cc . It is available with Automatic & Manual transmission.Depending upon the variant and fuel type the Thar has a mileage of 15.2 kmpl & Ground clearance of Thar is 226mm. The Thar is a 4 seater 4 cylinder car and has length of 3985mm, width of 1855mm and a wheelbase of 2450mm."
+    },
+    {
+        "name": "Mahindra Scorpio-N",
+        "brand": "Mahindra",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/Scorpio-N/10817/1690351800434/front-left-side-47.jpg",
+        "category": "SUV",
+        "price": "13.05 - 24.51 Lakh*",
+        "description": "The Mahindra Scorpio N has 1 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 2198 cc while the Petrol engine is 1997 cc . It is available with Automatic & Manual transmission.Depending upon the variant and fuel type the Scorpio N has a mileage of & Ground clearance of Scorpio N is 187. The Scorpio N is a 7 seater 4 cylinder car and has length of 4662mm, width of 1917 and a wheelbase of 2750"
+    },
+    {
+        "name": "Mahindra XUV300",
+        "brand": "Mahindra",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/XUV300/10770/1690267108916/front-left-side-47.jpg",
+        "category": "SUV",
+        "price": "Rs.7.99 - 14.74 Lakh*",
+        "description": "The Mahindra XUV300 has 1 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 1497 cc while the Petrol engine is 1197 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the XUV300 has a mileage of 20.1 kmpl . The XUV300 is a 5 seater 4 cylinder car and has length of 3995mm, width of 1821mm and a wheelbase of 2600mm"
+    },
+    {
+        "name": "Mahindra XUV700",
+        "brand": "Mahindra",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/XUV700/10789/1705388477954/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "13.99 - 26.99 Lakh*",
+        "description": "The Mahindra XUV700 has 1 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 2198 cc while the Petrol engine is 1999 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the XUV700 has a mileage of 17 kmpl . The XUV700 is a 7 seater 4 cylinder car and has length of 4695 mm, width of 1890 mm and a wheelbase of 2829."
+    },
+    {
+        "name": "Mahindra Bolero",
+        "brand": "Mahindra",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Bolero/10754/1697696929365/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "9.90 - 10.91 Lakh*",
+        "description": "The Mahindra Bolero has 1 Diesel Engine on offer. The Diesel engine is 1493 cc . It is available with Manual transmission.Depending upon the variant and fuel type the Bolero has a mileage of 16 kmpl & Ground clearance of Bolero is 180 mm. The Bolero is a 7 seater 3 cylinder car and has length of 3995 mm, width of 1745 mm and a wheelbase of 2750."
+    },
+    {
+        "name": "Mahindra Marazzo",
+        "brand": "Mahindra",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Marazzo/10758/1690195787290/front-left-side-47.jpg?tr=w-664",
+        "category": "MUV",
+        "price": "14.39 - 16.80 Lakh*",
+        "description": "The Mahindra Marazzo has 1 Diesel Engine on offer. The Diesel engine is 1497 cc . It is available with Manual transmission.Depending upon the variant and fuel type the Marazzo has a mileage of 17.3 kmpl . The Marazzo is a 8 seater 4 cylinder car and has length of 4585 mm, width of 1866 mm and a wheelbase of 2750."
+    },
+    {
+        "name": "Mahindra Scorpio",
+        "brand": "Mahindra",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Scorpio/10764/1708522826716/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "13.59 - 17.35 Lakh*",
+        "description": "The Mahindra Scorpio has 1 Diesel Engine on offer. The Diesel engine is 2184 cc . It is available with Manual transmission.Depending upon the variant and fuel type the Scorpio has a mileage of . The Scorpio is a 7 seater 4 cylinder car and has length of 4456 mm, width of 1820 mm and a wheelbase of 2750."
+    },
+    {
+        "name": "Mahindra Bolero Neo",
+        "brand": "Mahindra",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Bolero-Neo/10766/1690267562292/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "9.90 - 12.15 Lakh*",
+        "description": "The Mahindra Bolero Neo has 1 Diesel Engine on offer. The Diesel engine is 1493 cc . It is available with Manual transmission.Depending upon the variant and fuel type the Bolero Neo has a mileage of 17.29 kmpl & Ground clearance of Bolero Neo is 160 mm. The Bolero Neo is a 7 seater 3 cylinder car and has length of 3995 mm, width of 1795 mm and a wheelbase of 2750."
+    },
+    {
+        "name": "Toyota Rumion",
+        "brand": "Toyota",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Rumion/8650/1691730064540/front-left-side-47.jpg",
+        "category": "MUV",
+        "price": "10.29 - 13.68 Lakh*",
+        "description": "The Toyota Rumion has 1 Petrol Engine and 1 CNG Engine on offer. The Petrol engine is 1462 cc while the CNG engine is 1462 cc . It is available with Manual transmission.Depending upon the variant and fuel type the Rumion has a mileage of . The Rumion is a 7 seater 4 cylinder car and has length of 4420, width of 1735 and a wheelbase of 2740"
+    },
+    {
+        "name": "Toyota Fortuner",
+        "brand": "Toyota",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Fortuner/10903/1690544151440/front-left-side-47.jpg",
+        "category": "SUV",
+        "price": "32.99 - 50.74 Lakh*",
+        "description": "The Toyota Fortuner has 1 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 2755 cc while the Petrol engine is 2694 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Fortuner has a mileage of 10.0 kmpl . The Fortuner is a 7 seater 4 cylinder car and has length of 4795mm, width of 1855mm and a wheelbase of 2745mm"
+    },
+    {
+        "name": "Toyota Vellfire",
+        "brand": "Toyota",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Vellfire/11003/1691052621034/front-left-side-47.jpg",
+        "category": "Luxury",
+        "price": "1.20 - 1.30 Cr*",
+        "description": "The Toyota Vellfire has 1 Petrol Engine on offer. The Petrol engine is 2487 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the Vellfire has a mileage of . The Vellfire is a 7 seater 4 cylinder car and has length of 5010, width of 1850 and a wheelbase of 3000"
+    },
+    {
+        "name": "Toyota Land Cruiser 300",
+        "brand": "Toyota",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Land-Cruiser/8448/1623313668941/front-left-side-47.jpg?tr=w-664",
+        "category": "Luxury",
+        "price": "2.10 Cr*",
+        "description": "The Toyota Land Cruiser 300 has 1 Diesel Engine on offer. The Diesel engine is 3346 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the Land Cruiser 300 has a mileage of 11 kmpl . The Land Cruiser 300 is a 5 seater 6 cylinder car and has length of 4685 mm, width of 1980 mm and a wheelbase of 2740."
+    },
+    {
+        "name": "Toyota Camry",
+        "brand": "Toyota",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Camry/10926/1708690549497/front-left-side-47.jpg?tr=w-664",
+        "category": "Sedan",
+        "price": "46.17 Lakh*",
+        "description": "The Toyota Camry has 1 Petrol Engine on offer. The Petrol engine is 2487 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the Camry has a mileage of . The Camry is a 5 seater 4 cylinder car and has length of 4885 mm, width of 1840 mm and a wheelbase of 2807."
+    },
+    {
+        "name": "Toyota Innova Crysta",
+        "brand": "Toyota",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Innova-Crysta/9612/1697698611076/front-left-side-47.jpg?tr=w-664",
+        "category": "MUV",
+        "price": "19.99 - 26.30 Lakh*",
+        "description": "The Toyota Innova Crysta has 1 Diesel Engine on offer. The Diesel engine is 2393 cc . It is available with Manual transmission.Depending upon the variant and fuel type the Innova Crysta has a mileage of . The Innova Crysta is a 7 seater 4 cylinder car and has length of 4735 mm, width of 1830 mm and a wheelbase of 2750 mm."
+    },
+    {
+        "name": "Toyota Urban Cruiser",
+        "brand": "Toyota",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Hyryder/10910/1690544495925/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "11.14 - 20.19 Lakh*",
+        "description": "The Toyota Hyryder has 2 Petrol Engine and 1 CNG Engine on offer. The Petrol engine is 1462 cc and 1490 cc while the CNG engine is 1462 cc . It is available with Automatic & Manual transmission.Depending upon the variant and fuel type the Urban Cruiser Hyryder has a mileage of 19.39 to 27.97 kmpl . The Urban Cruiser Hyryder is a 5 seater 3 cylinder car and has length of 4365 mm, width of 1795 mm and a wheelbase of 2750."
+    },
+    {
+        "name": "Toyota Hilux",
+        "brand": "Toyota",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Hilux/10924/1691990326111/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "30.40 - 37.90 Lakh*",
+        "description": "The Toyota Hilux has 1 Diesel Engine on offer. The Diesel engine is 2755 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Hilux has a mileage of . The Hilux is a 5 seater 4 cylinder car and has length of 5325 mm, width of 1855 mm and a wheelbase of 2807."
+    },
+    {
+        "name": "Range-Rover",
+        "brand": "Land Rover",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Land-Rover/Range-Rover/9018/1676541159356/front-left-side-47.jpg",
+        "category": "Luxury",
+        "price": "2.39 - 4.17 Cr*",
+        "description": "The Land Rover Range Rover has 1 Diesel Engine and 5 Petrol Engine on offer. The Diesel engine is 2997 cc while the Petrol engine is 2998 cc and 2996 cc and 4395 cc and 4367 cc and 2997 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the Range Rover has a mileage of 14.01 kmpl . The Range Rover is a 7 seater 8 cylinder car and has length of 5052mm, width of 2209mm and a wheelbase of 2997mm"
+    },
+    {
+        "name": "Land-Rover Defender",
+        "brand": "Land Rover",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Land-Rover/Defender/9065/Land-Rover-Defender-2.0-90-HSE/1686138012912/front-left-side-47.jpg",
+        "category": "SUV",
+        "price": "93.55 Lakh - 2.30 Cr*",
+        "description": "The Land Rover Defender has 2 Diesel Engine and 6 Petrol Engine on offer. The Diesel engine is 2998 cc and 2997 cc while the Petrol engine is 1997 cc and 2997 cc and 2998 cc and 1998 cc and 4997 cc and 5000 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the Defender has a mileage of 14.01 kmpl . The Defender is a 6 seater 6 cylinder car and has length of 4583mm, width of 2105mm and a wheelbase of 2587mm"
+    },
+    {
+        "name": "Range Rover Velar",
+        "brand": "Land Rover",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Land-Rover/Range-Rover-Velar-2023/10584/1689741801024/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "87.90 Lakh*",
+        "description": "The Land Rover Range Rover Velar has 1 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 1997 cc while the Petrol engine is 1997 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the Range Rover Velar has a mileage of 15.8 kmpl . The Range Rover Velar is a 5 seater 4 cylinder car and has length of 4797 mm, width of 2147 mm and a wheelbase of 3006."
+    },
+    {
+        "name": "Range Rover Sport",
+        "brand": "Land Rover",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Land-Rover/Range-Rover-Sport/9115/1653022703223/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "1.69 - 2.80 Cr*",
+        "description": "The Land Rover Range Rover Sport has 2 Diesel Engine and 2 Petrol Engine on offer. The Diesel engine is 2998 cc and 2997 cc while the Petrol engine is 2997 cc and 4395 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the Range Rover Sport has a mileage of . The Range Rover Sport is a 5 seater 6 cylinder car and has length of 4946 mm, width of 2209 mm and a wheelbase of 2610."
+    },
+    {
+        "name": "Discovery",
+        "brand": "Land Rover",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Land-Rover/Discovery/8514/1646805311941/front-left-side-47.jpg?tr=w-664",
+        "category": "Luxury",
+        "price": "97 Lakh - 1.43 Cr*",
+        "description": "The Land Rover Discovery has 2 Diesel Engine and 4 Petrol Engine on offer. The Diesel engine is 2996 cc and 2997 cc while the Petrol engine is 1997 cc and 2996 cc and 2997 cc and 2998 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the Discovery has a mileage of 12.37 kmpl . The Discovery is a 7 seater 4 cylinder car and has length of 4949 mm, width of 2073 mm and a wheelbase of 3095."
+    },    
+    {
+        "name": "Hyundai Venue",
+        "brand": "Hyundai",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Venue/10142/1684739946788/front-left-side-47.jpg",
+        "category": "SUV",
+        "price": "7.72 - 13.48 Lakh*",
+        "description": "The Hyundai Venue has 1 Diesel Engine and 2 Petrol Engine on offer. The Diesel engine is 1493 cc while the Petrol engine is 1197 cc and 998 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Venue has a mileage of . The Venue is a 5 seater 3 cylinder car and has length of 3995mm, width of 1770mm and a wheelbase of 2500mm"
+    },
+    {
+        "name": "Hyundai Creta",
+        "brand": "Hyundai",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Creta/10544/1689588616959/front-left-side-47.jpg",
+        "category": "SUV",
+        "price": "10.87 - 19.20 Lakh*",
+        "description": "The Hyundai Creta has 1 Diesel Engine and 3 Petrol Engine on offer. The Diesel engine is 1493 cc while the Petrol engine is 1497 cc and 1498 cc and 1397 cc . It is available with Automatic & Manual transmission.Depending upon the variant and fuel type the Creta has a mileage of 16.8 kmpl . The Creta is a 5 seater 4 cylinder car and has length of 4300mm, width of 1790mm and a wheelbase of 2610mm"
+    },
+    {
+        "name": "Hyundai Verna",
+        "brand": "Hyundai",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Verna/9744/1694602806760/front-left-side-47.jpg?tr=w-664",
+        "category": "Sedan",
+        "price": "11 - 17.42 Lakh*",
+        "description": "The Hyundai Verna has 2 Petrol Engine on offer. The Petrol engine is 1497 cc and 1482 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Verna has a mileage of 18.6 to 20.6 kmpl . The Verna is a 5 seater 4 cylinder car and has length of 4535 mm, width of 1765 mm and a wheelbase of 2670 mm."
+    },
+    {
+        "name": "Hyundai i20",
+        "brand": "Hyundai",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/i20/9471/1697696007962/front-left-side-47.jpg?tr=w-664",
+        "category": "Hatchback",
+        "price": "7.04 - 11.21 Lakh*",
+        "description": "The Hyundai i20 has 1 Petrol Engine on offer. The Petrol engine is 1197 cc . It is available with Automatic & Manual transmission.Depending upon the variant and fuel type the i20 has a mileage of 16 to 20 kmpl . The i20 is a 5 seater 4 cylinder car and has length of 3995 mm, width of 1775 mm and a wheelbase of 2580 mm."
+    },
+    {
+        "name": "Hyundai Aura",
+        "brand": "Hyundai",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Aura/10126/1694588549389/front-left-side-47.jpg?tr=w-664",
+        "category": "Sedan",
+        "price": "6.49 - 9.05 Lakh",
+        "description": "The Hyundai Aura has 1 Petrol Engine and 1 CNG Engine on offer. The Petrol engine is 1197 cc while the CNG engine is 1197 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Aura has a mileage of 17 kmpl to 22 km/kg . The Aura is a 5 seater 4 cylinder car and has length of 3995 mm, width of 1680 mm and a wheelbase of 2450 mm."
+    },
+    {
+        "name": "Hyundai Alcazar",
+        "brand": "Hyundai",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Alcazar/10163/1688374034651/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "16.77 - 21.28 Lakh*",
+        "description": "The Hyundai Alcazar has 1 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 1493 cc while the Petrol engine is 1482 cc . It is available with Automatic & Manual transmission.Depending upon the variant and fuel type the Alcazar has a mileage of 24.5 kmpl . The Alcazar is a 7 seater 4 cylinder car and has length of 4500 mm, width of 1790 mm and a wheelbase of 2760 mm."
+    },
+    {
+        "name": "Hyundai Tucson",
+        "brand": "Hyundai",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Tucson/10134/1694668706095/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "29.02 - 35.94 Lakh*",
+        "description": "The Hyundai Tucson has 1 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 1997 cc while the Petrol engine is 1999 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the Tucson has a mileage of 18 kmpl . The Tucson is a 5 seater 4 cylinder car and has length of 4630 mm, width of 1865 mm and a wheelbase of 2755 mm."
+    },
+    {
+        "name": "Hyundai Grand i10",
+        "brand": "Hyundai",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Grand-i10-Nios/10096/1684298344769/front-left-side-47.jpg?tr=w-664",
+        "category": "Hatchback",
+        "price": "5.92 - 8.56 Lakh*",
+        "description": "The Hyundai Grand i10 Nios has 1 Petrol Engine and 1 CNG Engine on offer. The Petrol engine is 1197 cc while the CNG engine is 1197 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Grand i10 Nios has a mileage of 16 kmpl to 27 km/kg . The Grand i10 Nios is a 5 seater 4 cylinder car and has length of 3815 mm, width of 1680 mm and a wheelbase of 2450 mm."
+    },
+    {
+        "name": "Kia Seltos",
+        "brand": "Kia",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Kia/Seltos-2023/8709/1688465684023/front-left-side-47.jpg",
+        "category": "SUV",
+        "price": "10.90 - 20 Lakh*",
+        "description": "The Kia Seltos has 1 Diesel Engine and 2 Petrol Engine on offer. The Diesel engine is 1493 cc while the Petrol engine is 1497 cc and 1482 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Seltos has a mileage of 17.0 to 20.7 kmpl . The Seltos is a 5 seater 4 cylinder car and has length of 4365, width of 1800 and a wheelbase of 2610"
+    },
+    {
+        "name": "Kia Sonet",
+        "brand": "Kia",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Kia/Sonet/9783/1705036728978/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "7.99 - 15.69 Lakh*",
+        "description": "The Kia Sonet has 1 Diesel Engine and 3 Petrol Engine on offer. The Diesel engine is 1493 cc while the Petrol engine is 1197 cc and 1199 cc and 998 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Sonet has a mileage of . The Sonet is a 5 seater 4 cylinder car and has length of 3995 mm, width of 1790 mm and a wheelbase of 2445."
+    },
+    {
+        "name": "Kia EV6",
+        "brand": "Kia",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Kia/EV6/8947/1654159762071/front-left-side-47.jpg?tr=w-664",
+        "category": "Luxury",
+        "price": "60.95 - 65.95 Lakh",
+        "description": "The Kia EV6 has 1 Electric Engine on offer. It is available with the Automatic transmission. The EV6 is a 5 seater and has length of 4695 mm, width of 1890 mm and a wheelbase of 3095."
+    },
+    {
+        "name": "Kia Carens",
+        "brand": "Kia",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Kia/Carens/10308/1687340273074/front-left-side-47.jpg?tr=w-664",
+        "category": "MUV",
+        "price": "10.45 - 19.45 Lakh*",
+        "description": "The Kia Carens has 1 Diesel Engine and 2 Petrol Engine on offer. The Diesel engine is 1493 cc while the Petrol engine is 1497 cc and 1482 cc . It is available with Automatic & Manual transmission.Depending upon the variant and fuel type the Carens has a mileage of 21 kmpl . The Carens is a 6 seater 4 cylinder car and has length of 4540 mm, width of 1800 mm and a wheelbase of 2780 mm."
+    },
+    {
+        "name": "Tata Harrier",
+        "brand": "Tata",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tata/Harrier/9850/1681887437871/front-left-side-47.jpg",
+        "category": "SUV",
+        "price": "15.20 - 24.27 Lakh*",
+        "description": "The Tata Harrier has 1 Diesel Engine on offer. The Diesel engine is 1956 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Harrier has a mileage of 14.6 to 16.35 kmpl . The Harrier is a 5 seater 4 cylinder car and has length of 4598mm, width of 1894mm and a wheelbase of 2741mm"
+    },
+    {
+        "name": "Tata Tigor",
+        "brand": "Tata",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tigor/10669/1706792082908/front-left-side-47.jpg?tr=w-664",
+        "category": "Sedan",
+        "price": "6.30 - 9.55 Lakh*",
+        "description": "The Tata Tigor has 1 Petrol Engine and 1 CNG Engine on offer. The Petrol engine is 1199 cc while the CNG engine is 1199 cc . It is available with Automatic & Manual transmission.Depending upon the variant and fuel type the Tigor has a mileage of 19.28 kmpl to 26.49 km/kg . The Tigor is a 5 seater 3 cylinder car and has length of 3993 mm, width of 1677 mm and a wheelbase of 2450 mm."
+    },
+    {
+        "name": "Tata Tiago",
+        "brand": "Tata",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tiago/10655/1706791879838/front-left-side-47.jpg?tr=w-664",
+        "category": "Hatchback",
+        "price": "5.65 - 8.90 Lakh*",
+        "description": "The Tata Tiago has 1 Petrol Engine and 1 CNG Engine on offer. The Petrol engine is 1199 cc while the CNG engine is 1199 cc . It is available with Automatic & Manual transmission.Depending upon the variant and fuel type the Tiago has a mileage of 19 kmpl to 26.49 km/kg & Ground clearance of Tiago is 168 mm. The Tiago is a 5 seater 3 cylinder car and has length of 3765 mm, width of 1677 mm and a wheelbase of 2400 mm."
+    },
+    {
+        "name": "Tata Safari",
+        "brand": "Tata",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Safari/11265/1697533880503/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "16.19 - 27.34 Lakh*",
+        "description": "The Tata Safari has 1 Diesel Engine on offer. The Diesel engine is 1956 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Safari has a mileage of 16.3 kmpl . The Safari is a 6 seater 4 cylinder car and has length of 4668 mm, width of 1922 mm and a wheelbase of 2500."
+    },
+    {
+        "name": "Tata Nexon",
+        "brand": "Tata",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Nexon/11104/1697698470038/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "8.15 - 15.60 Lakh*",
+        "description": "The Tata Nexon has 1 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 1497 cc while the Petrol engine is 1199 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Nexon has a mileage of 17.01 to 24.08 kmpl & Ground clearance of Nexon is 208 mm. The Nexon is a 5 seater 4 cylinder car and has length of 3995 mm, width of 1804 mm and a wheelbase of 2498 mm."
+    },
+    {
+        "name": "Tata Punch",
+        "brand": "Tata",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Punch/10681/1691392713058/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "6.13 - 10.20 Lakh*",
+        "description": "The Tata Punch has 1 Petrol Engine and 1 CNG Engine on offer. The Petrol engine is 1199 cc while the CNG engine is 1199 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Punch has a mileage of 18.8 kmpl to 26.99 km/kg & Ground clearance of Punch is 187 mm. The Punch is a 5 seater 3 cylinder car and has length of 3827 mm, width of 1742 mm and a wheelbase of 2445 mm."
+    },
+    {
+        "name": "Renault Kiger",
+        "brand": "Renault",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Renault/Kiger/10042/1683117510296/front-left-side-47.jpg",
+        "category": "Hatchback",
+        "price": "6.50 - 11.23 Lakh*",
+        "description": "The Renault Kiger has 1 Petrol Engine on offer. The Petrol engine is 999 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Kiger has a mileage of 18.24 to 20.5 kmpl & Ground clearance of Kiger is 205. The Kiger is a 5 seater 3 cylinder car and has length of 3991mm, width of 1750 and a wheelbase of 2500"
+    },
+    {
+        "name": "Renault Triber",
+        "brand": "Renault",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Renault/Triber/10066/1705906309105/front-left-side-47.jpg?tr=w-664",
+        "category": "Hatchback",
+        "price": "6 - 8.97 Lakh*",
+        "description": "The Renault Triber has 1 Petrol Engine on offer. The Petrol engine is 999 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Triber has a mileage of 18.2 to 20 kmpl & Ground clearance of Triber is 182 mm. The Triber is a 7 seater 3 cylinder car and has length of 3990 mm, width of 1739 mm and a wheelbase of 2500."
+    },
+    {
+        "name": "Renault KWID",
+        "brand": "Renault",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Renault/KWID/10076/1705905595853/front-left-side-47.jpg?tr=w-664",
+        "category": "Hatchback",
+        "price": "4.70 - 6.45 Lakh*",
+        "description": "The Renault KWID has 1 Petrol Engine on offer. The Petrol engine is 999 cc . It is available with Automatic & Manual transmission.Depending upon the variant and fuel type the KWID has a mileage of 21.46 to 22.3 kmpl & Ground clearance of KWID is 184 mm. The KWID is a 5 seater 3 cylinder car and has length of 3731 mm, width of 1579 mm and a wheelbase of 2498."
+    },
+    {
+        "name": "Porsche 911",
+        "brand": "Porsche",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Porsche/911/10990/1690869580714/front-left-side-47.jpg",
+        "category": "Luxury",
+        "price": "1.86 - 4.26 Cr*",
+        "description": "The Porsche 911 has 2 Petrol Engine on offer. The Petrol engine is 2981 cc and 3996 cc . It is available with Automatic & Manual transmission.Depending upon the variant and fuel type the 911 has a mileage of 10.64 kmpl . The 911 is a seater 6 cylinder car and has length of 4573, width of 2027 and a wheelbase of 2457"
+    },
+    {
+        "name": "Porsche Cayenne",
+        "brand": "Porsche",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Porsche/Cayenne-2024/9903/Porsche-Cayenne-2024-/1681882894783/front-left-side-47.jpg?tr=w-664",
+        "category": "Luxury",
+        "price": "1.36 Cr*",
+        "description": "The Porsche Cayenne has 1 Petrol Engine on offer. The Petrol engine is 2894 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the Cayenne has a mileage of 10.8 kmpl . The Cayenne is a 4 seater 6 cylinder car and has length of 4930 mm, width of 1983 mm and a wheelbase of 2500."
+    },
+    {
+        "name": "Porsche Panamera",
+        "brand": "Porsche",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Porsche/Panamera/11350/1701081788330/front-left-side-47.jpg?tr=w-664",
+        "category": "Luxury",
+        "price": "1.68 Cr*",
+        "description": "The Porsche Panamera has 1 Petrol Engine on offer. The Petrol engine is 3998 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the Panamera has a mileage of . The Panamera is a 4 seater 8 cylinder car and has length of 5049 mm and width of 1937 mm."
+    },
+    {
+        "name": "Porsche Taycan",
+        "brand": "Porsche",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Porsche/Taycan/7041/1636711367887/front-left-side-47.jpg?tr=w-664",
+        "category": "Luxury",
+        "price": "1.61 - 2.44 Cr*",
+        "description": "The Porsche Taycan has 1 Electric Engine on offer. It is available with the Automatic transmission. The Taycan is a 5 seater and has length of 4974 mm, width of 2144 mm and a wheelbase of 2520."
+    },
+    {
+        "name": "Porsche 718",
+        "brand": "Porsche",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Porsche/718/10989/1690874880367/front-left-side-47.jpg?tr=w-664",
+        "category": "Luxury",
+        "price": "1.48 - 2.74 Cr*",
+        "description": "The Porsche 718 has 3 Petrol Engine on offer. The Petrol engine is 1988 cc and 3995 cc and 3997 cc . It is available with Automatic & Manual transmission.Depending upon the variant and fuel type the 718 has a mileage of 9.17 kmpl & Ground clearance of 718 is 128 mm. The 718 is a 2 seater 6 cylinder car and has length of 4456 mm, width of 1994 mm and a wheelbase of 2500."
+    },
+    {
+        "name": "Audi Q8 e-tron",
+        "brand": "Audi",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/Q8-e-tron/9435/1692356411151/front-left-side-47.jpg",
+        "category": "Luxury",
+        "price": "1.14 - 1.26 Cr*",
+        "description": "The Audi Q8 e-tron has 1 Electric Engine on offer. It is available with the Automatic transmission. The Q8 e-tron is a 5 seater and has length of 4915, width of 1976 and a wheelbase of 2928"
+    },
+    {
+        "name": "Audi A6",
+        "brand": "Audi",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/A6/10552/1708935437947/front-left-side-47.jpg?tr=w-664",
+        "category": "Luxury",
+        "price": "64.09 - 70.44 Lakh*",
+        "description": "The Audi A6 has 1 Petrol Engine on offer. The Petrol engine is 1984 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the A6 has a mileage of 14.11 kmpl & Ground clearance of A6 is 165 mm. The A6 is a 5 seater 4 cylinder car and has length of 4939 mm, width of 2110 mm and a wheelbase of 2500."
+    },
+    {
+        "name": "Audi A4",
+        "brand": "Audi",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/A4/10548/1689591781105/front-left-side-47.jpg?tr=w-664",
+        "category": "Sedan",
+        "price": "45.34 - 53.50 Lakh*",
+        "description": "The Audi A4 has 1 Petrol Engine on offer. The Petrol engine is 1984 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the A4 has a mileage of . The A4 is a 5 seater 4 cylinder car and has length of 4762 mm, width of 1847 mm and a wheelbase of 2500."
+    },
+    {
+        "name": "Audi Q3",
+        "brand": "Audi",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Q3/11363/1708935637129/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "43.81 - 53.17 Lakh*",
+        "description": "The Audi Q3 has 1 Petrol Engine on offer. The Petrol engine is 1984 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the Q3 has a mileage of . The Q3 is a 5 seater 4 cylinder car and has length of 4482 mm, width of 1849 mm and a wheelbase of 2500."
+    },
+    {
+        "name": "Audi e-tron GT",
+        "brand": "Audi",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/e-tron-GT/8340/1678098767884/front-left-side-47.jpg?tr=w-664",
+        "category": "Luxury",
+        "price": "1.72 Cr*",
+        "description": "The Audi e-tron GT has 1 Electric Engine on offer. It is available with the Automatic transmission. The e-tron GT is a 5 seater and has length of 4989 mm, width of 1964 mm and a wheelbase of 2923."
+    },
+    {
+        "name": "Volkswagen Virtus",
+        "brand": "Volkswagen",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Volkswagen/Virtus/10624/1689938817194/front-left-side-47.jpg",
+        "category": "Sedan",
+        "price": "11.48 - 18.77 Lakh*",
+        "description": "The Volkswagen Virtus has 2 Petrol Engine on offer. The Petrol engine is 999 cc and 1498 cc . It is available with Automatic & Manual transmission.Depending upon the variant and fuel type the Virtus has a mileage of 18.12 to 20.8 kmpl & Ground clearance of Virtus is 179mm. The Virtus is a 5 seater 4 cylinder car and has length of 4561mm, width of 1752mm and a wheelbase of 2651mm"
+    },
+    {
+        "name": "Volkswagen Taigun",
+        "brand": "Volkswagen",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Volkswagen/Taigun/10632/1689938345983/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "11.70 - 20 Lakh*",
+        "description": "The Volkswagen Taigun has 2 Petrol Engine on offer. The Petrol engine is 999 cc and 1498 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Taigun has a mileage of 17.88 to 20.08 kmpl & Ground clearance of Taigun is 188 mm. The Taigun is a 5 seater 4 cylinder car and has length of 4221 mm, width of 1760 mm and a wheelbase of 2741."
+    },
+    {
+        "name": "Volkswagen Tiguan",
+        "brand": "Volkswagen",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Volkswagen/Tiguan/10132/1684404924124/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "35.17 Lakh*",
+        "description": "The Volkswagen Tiguan has 1 Petrol Engine on offer. The Petrol engine is 1984 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the Tiguan has a mileage of 12.65 kmpl . The Tiguan is a 5 seater 4 cylinder car and has length of 4509 mm, width of 1839 mm and a wheelbase of 2950."
+    },
+    {
+        "name": "Honda City",
+        "brand": "Honda",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/City/9710/1677914238296/front-left-side-47.jpg?tr=w-664",
+        "category": "Sedan",
+        "price": "11.71 - 16.19 Lakh*",
+        "description": "The Honda City has 1 Petrol Engine on offer. The Petrol engine is 1498 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the City has a mileage of 17.8 to 18.4 kmpl . The City is a 5 seater 4 cylinder car and has length of 4583 mm, width of 1748 mm and a wheelbase of 5209."
+    },
+    {
+        "name": "Honda Elevate",
+        "brand": "Honda",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/Elevate/9533/1686040115808/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "11.58 - 16.20 Lakh*",
+        "description": "The Honda Elevate has 1 Petrol Engine on offer. The Petrol engine is 1498 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Elevate has a mileage of 15.31 to 16.92 kmpl . The Elevate is a 5 seater 4 cylinder car and has length of 4312 mm, width of 1790 mm and a wheelbase of 2650."
+    },
+    {
+        "name": "Honda WR-V",
+        "brand": "Honda",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/WR-V-2023/9420/1667390142668/front-left-side-47.jpg?tr=w-664",
+        "category": "SUV",
+        "price": "8 Lakh*",
+        "description": "The Honda WR-V has 1 Petrol Engine on offer. The Petrol engine is 1199 cc . It is available with the Manual transmission."
+    },
+    {
+        "name": "Honda Amaze",
+        "brand": "Honda",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/Amaze/10519/1689589132736/front-left-side-47.jpg?tr=w-664",
+        "category": "Sedan",
+        "price": "7.16 - 9.92 Lakh*",
+        "description": "The Honda Amaze has 1 Petrol Engine on offer. The Petrol engine is 1199 cc . It is available with Manual & Automatic transmission.Depending upon the variant and fuel type the Amaze has a mileage of 18.3 to 18.6 kmpl . The Amaze is a 5 seater 4 cylinder car and has length of 3995 mm, width of 1695 mm and a wheelbase of 2741."
+    }
+]

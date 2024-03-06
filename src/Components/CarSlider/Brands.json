@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Maruti Suzuki",
+        "image": "https://seeklogo.com/images/S/suzuki-logo-5311518DD9-seeklogo.com.png"
+    },
+
+    {
+        "name": "Toyota",
+        "image": "https://seeklogo.com/images/T/Toyota-logo-25BC276E4D-seeklogo.com.png"
+    },
+
+    {
+        "name": "Land Rover",
+        "image": "https://seeklogo.com/images/L/land-rover-logo-86296C9BE7-seeklogo.com.png"
+    },
+    {
+        "name": "Hyundai",
+        "image": "https://seeklogo.com/images/H/Hyundai_Motor_Company-logo-F02C4DDF50-seeklogo.com.png"
+    },
+
+    {
+        "name": "Mahindra",
+        "image": "https://seeklogo.com/images/M/mahindra-logo-B74777040E-seeklogo.com.png"
+    },
+
+    {
+        "name": "Kia",
+        "image": "https://seeklogo.com/images/K/Kia_Motors-logo-B8F4801700-seeklogo.com.png"
+    },
+
+    {
+        "name": "Tata",
+        "image": "https://seeklogo.com/images/T/TATA-logo-B17191F4CA-seeklogo.com.png"
+    },
+
+    {
+        "name": "Renault",
+        "image": "https://seeklogo.com/images/R/renault-logo-18DB8E9AE7-seeklogo.com.png"
+    },
+
+    {
+        "name": "Porsche",
+        "image": "https://seeklogo.com/images/P/porsche-logo-5995000C95-seeklogo.com.png"
+    },
+
+    {
+        "name": "Audi",
+        "image": "https://seeklogo.com/images/A/Audi-logo-70A7072C07-seeklogo.com.png"
+    },
+
+    {
+        "name": "Volkswagen",
+        "image": "https://seeklogo.com/images/V/volkswagen-logo-0ACC64D8C1-seeklogo.com.png"
+    },
+    {
+        "name": "Honda",
+        "image": "https://seeklogo.com/images/H/honda-silver-logo-E810C6A8A4-seeklogo.com.png"
+    }
+]

@@ -1,0 +1,157 @@
+#headernav {
+  padding: 25px 35px;
+}
+
+#main>div>h2 {
+  font-weight: bold;
+}
+
+#main>div>div {
+  margin: 30px;
+}
+
+#main>div>div>p {
+  margin: 5px;
+  font-weight: bold;
+}
+
+#main>div>div>p>a {
+  text-decoration: none;
+  font-weight: normal;
+}
+
+#main>div>p {
+  font-weight: bold;
+  margin: 30px;
+}
+
+#headernav>span {
+  font-size: 26px;
+}
+
+#headernav>span>span {
+  font-weight: bold;
+}
+
+#headernav>button {
+  float: right;
+  font-size: 26px;
+  border: none;
+  background-color: transparent;
+}
+
+#innermaincomponent {
+  border: 2px solid transparent;
+  background-color: rgb(255, 255, 255);
+  margin-top: 0px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+#innermaincomponent>p {
+  text-align: center;
+  font-weight: normal;
+}
+
+#footer {
+  padding: 20px;
+  text-align: center;
+}
+
+.carouseldiv {
+  box-shadow: 2px 2px 10px black;
+}
+
+#popularcars>h2 {
+  margin: 20px 0px;
+}
+
+#popularcars>div>button {
+  margin: 0px 0px;
+  padding: 3px 5px;
+  background-color: transparent;
+  border: none;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#modal-div {
+  margin: 0px 5px;
+  color: rgb(79, 79, 79);
+}
+
+#modal-div>p {
+  margin: 0;
+}
+
+#modal-div>p>span {
+  font-weight: bold;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  justify-content: center;
+  gap: 10px;
+}
+
+.card {
+  width: 200px;
+  margin: 15px;
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+/* Extra small devices (phones, 576px and down) */
+@media only screen and (max-width: 576px) {
+  .grid-container {
+    grid-template-columns: auto;
+  }
+
+  .card {
+    width: 250px;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 576px and up) */
+@media only screen and (min-width: 576px) {
+  .grid-container {
+    grid-template-columns: auto auto;
+  }
+
+  .card {
+    width: 300px;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .grid-container {
+    grid-template-columns: auto auto;
+  }
+
+  .card {
+    width: 300px;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .grid-container {
+    grid-template-columns: auto auto auto;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .grid-container {
+    grid-template-columns: auto auto auto auto;
+  }
+}
