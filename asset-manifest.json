@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Moving-Cranks/static/css/main.c0afbe79.css",
+    "main.js": "/Moving-Cranks/static/js/main.67b363ca.js",
+    "static/js/453.0f11beee.chunk.js": "/Moving-Cranks/static/js/453.0f11beee.chunk.js",
+    "index.html": "/Moving-Cranks/index.html",
+    "main.c0afbe79.css.map": "/Moving-Cranks/static/css/main.c0afbe79.css.map",
+    "main.67b363ca.js.map": "/Moving-Cranks/static/js/main.67b363ca.js.map",
+    "453.0f11beee.chunk.js.map": "/Moving-Cranks/static/js/453.0f11beee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0afbe79.css",
+    "static/js/main.67b363ca.js"
+  ]
+}
